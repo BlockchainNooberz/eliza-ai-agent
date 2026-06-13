@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.local
+dist/
+build/
+coverage/
+artifacts/
+cache/
+typechain/
+.DS_Store
+*.log
+pnpm-lock.yaml
